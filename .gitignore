@@ -23,3 +23,8 @@ __pycache__/
 
 # Logs
 *.log
+
+# PyInstaller
+build/
+dist/
+*.spec

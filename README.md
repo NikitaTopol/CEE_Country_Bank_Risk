@@ -211,7 +211,17 @@ CEE_Country_Bank_Risk/
 │
 └── README.md
 ```
+## Interactive Dashboard
 
+The project includes an interactive Streamlit dashboard for exploring the country risk scores.
+
+### Run locally
+
+Create and activate the virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
 ## Disclaimer
 
 This project is an educational and portfolio-oriented analytical tool. The composite score is a simplified comparative indicator and should not be interpreted as an official sovereign or banking credit-risk assessment.
