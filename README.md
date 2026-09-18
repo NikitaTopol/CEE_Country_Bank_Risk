@@ -16,6 +16,39 @@ The project combines publicly available data from the **World Bank** and the **I
    * a country risk ranking bar chart;
    * an inflation trend line chart.
 
+
+## Desktop Dashboard
+
+The project includes a standalone desktop dashboard built with PySide6.
+
+The application provides:
+
+- country selection
+- composite country risk score
+- risk category
+- key economic and governance indicators
+- normalized risk components
+- cross-country comparison
+- methodology overview
+
+Run locally:
+
+```bash
+python desktop_app.py
+```
+
+Build the macOS application:
+
+```bash
+pyinstaller --windowed --name "Country Bank Risk Dashboard" --add-data "data:data" desktop_app.py
+```
+
+Launch the application:
+
+```bash
+open "dist/Country Bank Risk Dashboard.app"
+```
+
 ## Countries covered
 
 * Ukraine
