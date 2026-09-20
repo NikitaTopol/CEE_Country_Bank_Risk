@@ -6,6 +6,8 @@ A small, self-contained pipeline that scores six Central and Eastern European (C
 
 The project combines publicly available data from the **World Bank** and the **International Monetary Fund (IMF)** and produces a transparent composite country-risk score that can be used as a starting point for comparative banking and finance analysis.
 
+**🌐 Live Demo:** https://country-bank-risk-dashboard.streamlit.app
+
 ## What it does
 
 1. Pulls four indicators for six countries for the 2019–2024 period.
