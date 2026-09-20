@@ -1,3 +1,5 @@
+**Live Demo:** https://country-bank-risk-dashboard.streamlit.app
+
 # Country Bank Risk Dashboard (MVP)
 
 A small, self-contained pipeline that scores six Central and Eastern European (CEE) countries on macroeconomic and political risk relevant to banking exposure.
