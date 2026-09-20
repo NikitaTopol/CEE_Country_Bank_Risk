@@ -83,11 +83,7 @@ selected = scores[
     scores["country_code"] == country_code
 ].iloc[0]
 
-data_year = int(
-    latest[
-        latest["country_code"] == country_code
-    ]["year"].max()
-)
+data_year = 2024
 
 st.sidebar.divider()
 

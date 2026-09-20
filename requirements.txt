@@ -2,3 +2,4 @@ pandas
 requests
 PySide6
 PyInstaller
+streamlit
