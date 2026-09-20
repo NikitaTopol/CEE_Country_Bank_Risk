@@ -3,3 +3,4 @@ requests
 PySide6
 PyInstaller
 streamlit
+matplotlib
